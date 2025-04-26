@@ -4,6 +4,13 @@ GoCab is a cutting-edge cab service platform designed to cater to drivers, users
 
 ---
 
+## Contributors
+
+- Anouska Sahoo : [@anouskasahoo](https://github.com/anouskasahoo)
+- Kavya : [@Kavya787](https://github.com/Kavya787)
+
+---
+
 ## About the Project
 
 GoCab provides a seamless experience for cab services by integrating powerful technologies across both the frontend and backend. The platform supports three distinct user roles:
@@ -99,3 +106,7 @@ Ensure you have the following installed:
 
 
 ---
+
+*Hope you enjoy viewing this project as much as we enjoyed creating it!*
+
+_____ō͡≡o˞̶_____
